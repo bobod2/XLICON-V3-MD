@@ -50,11 +50,11 @@ global.location = process.env.GL_INFO || "Pakistan, Lahore, Sabzazar" //ur locat
 
 //new
 //________________________________________________________________________________________________________
-global.botname = process.env.BOT_NAME || 'EmmyNuel' //ur bot name
+global.botname = process.env.BOT_NAME || 'law me v3' //ur bot name
 //________________________________________________________________________________________________________
-global.ownernumber = process.env.SUDO || '2348168689993' //ur owner number
+global.ownernumber = process.env.SUDO || '233558111386' //ur owner number
 //________________________________________________________________________________________________________
-global.ownername = process.env.SUDO_NAME || 'EmmyNuel' //ur owner name
+global.ownername = process.env.SUDO_NAME || 'lawshambles' //ur owner name
 //________________________________________________________________________________________________________
 global.websitex = process.env.YT_LINK || "https://youtube.com/@s4salmanyt"
 //________________________________________________________________________________________________________
@@ -66,7 +66,7 @@ global.wm = process.env.GL_WM || "© Xʟɪᴄᴏɴ-Iɴᴄ"
 //________________________________________________________________________________________________________
 global.botscript = process.env.GL_SC || 'https://github.com/salmanytofficial/XLICON-V3-MD' //script link
 //________________________________________________________________________________________________________
-global.packname = process.env.PACK_NAME || "EmmyNuel"
+global.packname = process.env.PACK_NAME || "Law"
 //________________________________________________________________________________________________________
 global.author = process.env.AUTHER_NAME || "@ me her"
 //________________________________________________________________________________________________________
@@ -74,7 +74,7 @@ global.creator = process.env.GL_DEVS || "923184070915@s.whatsapp.net"
 //________________________________________________________________________________________________________
 global.xprefix = process.env.PREFIX || '.'
 //________________________________________________________________________________________________________
-global.premium = process.env.GL_VIP || ["2348168689993"] // Premium User
+global.premium = process.env.GL_VIP || ["233558111386"] // Premium User
 //________________________________________________________________________________________________________
 global.hituet = 0
 //________________________________________________________________________________________________________
